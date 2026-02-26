@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.vscode/
+.idea/
+.DS_Store
+*.kubeconfig
+secrets.yaml
+.terraform/
+*.tfstate
