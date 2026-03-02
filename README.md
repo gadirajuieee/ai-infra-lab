@@ -1,6 +1,6 @@
 # 🧪 AI Infra Lab
 
-Personal playground for experiments in **AI Infrastructure**, **Kubernetes**, **Agentic AI**, and **MCP (Model Context Protocol)**.
+Technical experiments in **AI Infrastructure**, **Kubernetes**, **Agentic AI**, and **MCP (Model Context Protocol)**.
 
 ## 🔧 What's Inside
 
